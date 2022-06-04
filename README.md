@@ -56,7 +56,7 @@ plt.show()
 ![output](MIR1.png)
 
 ### Display the Eroded Image
-![output](MIR2.png)
+![output](erode.png)
 ### Display the Dilated Image
 ![output](MIR3.png)
 
